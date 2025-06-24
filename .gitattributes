@@ -1,7 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-<<<<<<< HEAD
 *.csv filter=lfs diff=lfs merge=lfs -text
-=======
 Track *.csv
->>>>>>> 716f7f6... Track large files using Git LFS
