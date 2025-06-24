@@ -1,5 +1,4 @@
 # Auto detect text files and normalize line endings
 * text=auto
-
 # Track CSV files with Git LFS
 *.csv filter=lfs diff=lfs merge=lfs -text
